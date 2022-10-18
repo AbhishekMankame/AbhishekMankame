@@ -3,9 +3,9 @@
 ## I'm a Flutter Developer and Deep Learning Enthusiast!
 - 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to Code, and contribute is Student Communities
+- ⚡ Fun fact: I love to Code, and contribute to Student Communities
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithva&label=Profile%20views&color=0e75b6&style=flat" alt="harshithva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMankame&label=Profile%20views&color=0e75b6&style=flat" alt="harshithva" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshithva" alt="harshithva" /></a> </p>
 
