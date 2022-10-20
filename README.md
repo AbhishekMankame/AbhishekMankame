@@ -2,7 +2,7 @@
 
 ## I'm a Flutter Developer and Deep Learning Enthusiast!
 - 🌱 I’m currently learning everything🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers and tech enthusiasts
 - ⚡ Fun fact: I love to Code, and contribute to Student Communities
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMankame&label=Profile%20views&color=0e75b6&style=flat" alt="harshithva" /> </p>
