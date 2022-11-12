@@ -1,21 +1,5 @@
 ### Hi there, I am Abhishek👋
 
-## I'm a Flutter Developer and Deep Learning Enthusiast!
-- 🌱 I’m currently learning everything🤣
-- 👯 I’m looking to collaborate with other developers and tech enthusiasts
-- ⚡ Fun fact: I love to Code, and contribute to Student Communities
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMankame&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek_mankame" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhishekMankame" alt="abhishek_mankame" /></a> </p>
-
-### Connect with me:
-[<img align="left" alt="abhishekMankame | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mankameabhishek)
-[<img align="left" alt="abhishekmankame | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhishek-mankame)
-[<img align="left" alt="vawebsites.in | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/abhishek_mankame)
-
-<br />
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -41,12 +25,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
-I am a Front end  Developer and app developer  from India.
+I am a Frontend Developer and app developer  from India.
 - :seedling: Exploring Technical Content Writing.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmikanth-bhat-5118431b8)
-- Email:@lakshmikanthbhat472@gmail.com
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mankame)
+- Email:@abhishekmankame962@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
