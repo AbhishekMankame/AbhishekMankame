@@ -32,7 +32,6 @@ I am a Frontend Developer and app developer  from India.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mankame)
 - Email:@abhishekmankame962@gmail.com
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
