@@ -64,8 +64,6 @@ I am a Frontend Developer and app developer  from India.
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-
-    
 </div>
 
 ---
