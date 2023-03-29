@@ -77,4 +77,4 @@ I am a Frontend Developer and app developer  from India.
 ![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekMankame&theme=radical)
 
 ## Snake eating my Contribution Graph!!!
-![snake gif](https://github.com/abhishek_mankame/abhishek_mankame/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AbhishekMankame/AbhishekMankame/blob/output/github-contribution-grid-snake.gif)
