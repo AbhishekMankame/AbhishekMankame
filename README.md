@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Competitive Programmer, Frontend Developer and app developer  from India.
+I am a Competitive Programmer, Frontend Developer and App Developer  from India.
 - Gold #msftstudentambassadors
 -  :seedling: Exploring Technical Content Writing.
 - Tech enthusiast.
