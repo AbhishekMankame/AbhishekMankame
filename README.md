@@ -27,6 +27,8 @@
 
 I am a Competitive Programmer, Frontend Developer and App Developer  from India.
 - Gold #msftstudentambassadors
+- Co-founder and core member of AJIET DevNation, an opensource community for students.
+- AI/ML lead at GDSC AJIET.
 -  :seedling: Exploring Technical Content Writing.
 - Tech enthusiast.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mankame)
