@@ -81,12 +81,7 @@ I am a Competitive Programmer, Frontend Developer and App Developer  from India.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekMankame&theme=radical)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhishekMankame&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMankame&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekMankame&theme=radical&cache_seconds=30&hide_border=true"/>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhishekMankame&theme=radical"  />
-</p>
 
 ## Snake eating my Contribution Graph!!!
 ![snake gif](https://github.com/abhishekmankame/abhishekmankame/blob/output/github-contribution-grid-snake.gif)
