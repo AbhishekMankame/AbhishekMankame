@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Competitive Programmer, Frontend Developer and App Developer from India.
+I am a Competitive Programmer, Web and App Developer from India.
 - Gold #msftstudentambassadors
 - Co-founder and core member of AJIET DevNation, an open source community for students.
 - AI/ML lead at GDSC AJIET.
