@@ -26,10 +26,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Competitive Programmer, Web and App Developer India.
-- Gold #msftstudentambassadors
+I am a Competitive Programmer, Web and App Developer and Machine Learning enthusiast from India.
+- Currently working as Mainframe Db2 systems programmer
+- Former Gold #msftstudentambassadors
 - Co-founder and core member of AJIET DevNation, an open source community for students.
-- AI/ML lead at GDSC AJIET.
+- Former AI/ML lead at GDSC AJIET.
 -  :seedling: Exploring Technical Content Writing.
 - Tech enthusiast.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mankame)
