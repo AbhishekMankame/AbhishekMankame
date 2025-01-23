@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 
 I am a Competitive Programmer, Web and App Developer and Machine Learning enthusiast from India.
-- Currently working as Mainframe Db2 systems programmer
+- Currently working as Mainframe Db2 systems programmer at Kyndryl
 - 3x Azure Certified
 - Former Gold #msftstudentambassadors
 - Co-founder and core member of AJIET DevNation, an open source community for students.
