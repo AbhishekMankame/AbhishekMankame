@@ -78,7 +78,7 @@ I am a Competitive Programmer, Web and App Developer and Machine Learning enthus
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMankame&show_icons=true&theme=radical)
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekMankame&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekMankame&show_icons=true&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekMankame&theme=radical)
 
