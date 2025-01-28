@@ -29,7 +29,7 @@ I am a Competitive Programmer, Web and App Developer and Machine Learning enthus
 - Currently working as Mainframe Db2 systems programmer at Kyndryl
 - 3x Azure Certified
 - Former Gold #msftstudentambassadors
-- Co-founder and core member of AJIET DevNation, an open source community for students.
+- Co-founder and former core member of AJIET DevNation, an open source community for students.
 - Former AI/ML lead at GDSC AJIET.
 -  :seedling: Exploring Technical Content Writing.
 - Tech enthusiast.
