@@ -31,7 +31,7 @@ I am a Competitive Programmer, Web and App Developer and Machine Learning enthus
 - Former Gold #msftstudentambassadors
 - Co-founder and former core member of AJIET DevNation, an open source community for students
 - Former AI/ML lead at GDSC AJIET
--  :seedling: Exploring Technical Content Writing.
+-  :seedling: Exploring Technical Content Writing
 - Tech enthusiast.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mankame)
 - Email: abhishekmankame962@gmail.com
