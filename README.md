@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Competitive Programmer, Web and App Developer and Machine Learning enthusiast from India.
+I am a Competitive Programmer, Web and App Developer and Machine Learning and GenAI enthusiast from India.
 - Currently working as Mainframe Db2 systems programmer at Kyndryl
 - 3x Azure Cloud Certified
 - Former Gold #msftstudentambassadors
