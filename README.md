@@ -1,90 +1,89 @@
 <div id="header" align="center">
-  <img src="https://me dia.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abhishek-mankame/)">
+  <a href="https://www.linkedin.com/in/abhishek-mankame/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@AbhishekMankame">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/MankameAbhishek">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=abhishek-mankame&style=flat-square&color=blue" alt="" >
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=abhishek-mankame&style=flat-square&color=blue" alt="profile views"/>
+</div>
+
 <h1 align="center">
-  Hey there!!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there! I'm Abhishek 👋
 </h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-
-I am a Competitive Programmer, Web and App Developer and Machine Learning and GenAI enthusiast from India.
-- Currently working as Mainframe Db2 systems programmer at Kyndryl
-- 3x Azure Cloud Certified
-- Former Gold #msftstudentambassadors
-- Co-founder and former core member of AJIET DevNation, an open source community for students
-- Former AI/ML lead at GDSC AJIET
--  :seedling: Exploring Technical Content Writing
-- Tech enthusiast
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mankame)
-- Email: abhishekmankame962@gmail.com
 ---
-### :hammer_and_wrench: Languages and Tools :
-<div>
+
+### 🚀 About Me
+
+I’m a passionate **Competitive Programmer**, **Full-stack Developer**, and **GenAI & ML Enthusiast** from India.  
+Currently working as a **Mainframe Db2 Systems Programmer at Kyndryl**.
+
+- 🥇 **3x Azure Cloud Certified**
+- 🚀 Former **Gold Microsoft Student Ambassador**
+- 🌟 Co-founder & former core member of **AJIET DevNation**  
+- 🤖 Former **AI/ML Lead at GDSC AJIET**
+- ✏️ Exploring **Technical Content Writing**
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mankame)
+- ✉️ Email: abhishekmankame962@gmail.com  
+
+I’m always up for a **good challenge** and love building cool things with amazing people! 🎉  
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <br>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### :fire: My Stats :
+### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekMankame&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMankame&show_icons=true&theme=radical" alt="Abhishek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMankame&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekMankame&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekMankame&theme=radical&no-bg=true" alt="Trophies" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMankame&show_icons=true&theme=radical)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekMankame&show_icons=true&theme=radical)
+### 🐍 Contribution Graph Snake
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekMankame&theme=radical)
+![Snake animation](https://github.com/AbhishekMankame/AbhishekMankame/blob/output/github-contribution-grid-snake.svg)
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhishekMankame&theme=radical"  />
+[![](https://visitcount.itsvg.in/api?id=AbhishekMankame&icon=7&color=9)](https://visitcount.itsvg.in)
 
-## Snake eating my Contribution Graph!!!
-![snake gif](https://github.com/AbhishekMankame/AbhishekMankame/blob/output/github-contribution-grid-snake.gif)
+---
 
-[![](https://visitcount.itsvg.in/api?id=aditisharma132&icon=7&color=9)](https://visitcount.itsvg.in)
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/63997962/213912935-eff2449b-ac9a-438b-92e7-65034109b1cf.svg)
+Thanks for visiting my profile! 🚀 Let’s build something awesome together!  
+**Keep coding, keep exploring!**
+
