@@ -1,5 +1,4 @@
 <div align="center">
-  
   <h1>Hey there! I'm Abhishek Mankame 👋</h1>
   
   <p align="center">
