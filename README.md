@@ -3,7 +3,7 @@
   
   <p align="center">
     <b>🌟 Competitive Programmer | 💻 Web & App Developer | 🤖 ML & GenAI Enthusiast</b><br>
-    🚀 Mainframe Db2 Systems Programmer at Kyndryl<br>
+    | 🚀 Mainframe Db2 Systems Programmer at Kyndryl<br>
     🥇 3x Azure Certified | Ex-#msftstudentambassadors Gold | Former AI/ML Lead @ GDSC AJIET<br>
     🎨 Co-founder of AJIET DevNation | 💡 Exploring open-source and writing
   </p>
