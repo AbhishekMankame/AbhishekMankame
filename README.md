@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hey there! I'm Abhishek Mankame 👋</h1>
-  
   <p align="center">
     <b>🌟 Competitive Programmer | 💻 Web & App Developer | 🤖 ML & GenAI Enthusiast</b><br>
     | 🚀 Mainframe Db2 Systems Programmer at Kyndryl<br>
