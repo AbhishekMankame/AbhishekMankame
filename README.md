@@ -48,6 +48,10 @@
 
 ---
 
+<div>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmankame&theme=merko" alt="srishti666 github readme activity graph" width="60%" />
+</div>
+
 ### 🎉 Fun Fact:
 🧩 I’m always on the hunt for new challenges and learning experiences!
 
