@@ -30,8 +30,8 @@
 
 ### ✍️ Currently Working On:
 - 🌐 Modern web & mobile app development
-- 🤝 Open-source contributions
 - 📚 ML & GenAI projects
+- 🤝 Open-source contributions
 - 🎓 Learning and exploring new tech
 
 ---
