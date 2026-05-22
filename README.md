@@ -12,7 +12,6 @@
     <a href="https://twitter.com/MankameAbhishek"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" /></a>
     <a href="mailto:abhishekmankame962@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi!-red?style=flat&logo=gmail" /></a>
   </p>
-  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AbhishekMankame&style=flat&color=blue" alt="Profile views"/>
   </p>
