@@ -59,3 +59,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;Let’s+connect+and+build+something+amazing!&font=Fira%20Code&center=true&width=380&height=50&color=58A6FF&vCenter=true&pause=1000&size=25" />
 </p>
+
+<h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmankame&show_icons=true&locale=en&layout=compact" alt="abhishekmankame" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmankame&show_icons=true&locale=en" alt="abhishekmankame" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmankame&" alt="abhishekmankame" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekmankame&theme=github_dark" alt="abhishekmankame" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekmankame&theme=github_dark" alt="abhishekmankame" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekmankame&theme=github_dark" alt="abhishekmankame" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekmankame&theme=github_dark" alt="darshan45672" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekmankame&theme=github_dark&utcOffset=8" alt="abhishekmankame" />
+</p>
+</div>
