@@ -6,7 +6,6 @@
     🥇 3x Azure Certified | Ex-#msftstudentambassadors Gold | Former AI/ML Lead @ GDSC AJIET<br>
     🎨 Co-founder of AJIET DevNation | 💡 Exploring open-source and writing
   </p>
-  
   <p align="center">
     <a href="https://www.linkedin.com/in/abhishek-mankame/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
     <a href="https://twitter.com/MankameAbhishek"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" /></a>
