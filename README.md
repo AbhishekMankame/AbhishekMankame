@@ -1,10 +1,12 @@
 <div align="center">
   <h1>Hey there! I'm Abhishek Mankame 👋</h1>
   <p align="center">
-    <b>🌟 Competitive Programmer | 💻 Web & App Developer | 🤖 ML & GenAI Enthusiast</b><br>
-    | 🚀 Software Engineer at Tata Consultancy Services (TCS)<br>
-    🥇 3x Azure Certified | Ex-#msftstudentambassadors Gold | Former AI/ML Lead @ GDSC AJIET<br>
-    🎨 Co-founder of AJIET DevNation | 💡 Exploring open-source and writing
+    <b>**💻 Software Engineer building systems, solving problems, and exploring AI.**
+🧠 DSA • System Design • Backend Engineering • AI/GenAI
+🚀 Software Engineer at Tata Consultancy Services (TCS)
+🥇 3x Azure Certified | Ex-#msftstudentambassadors Gold | Former AI/ML Lead @ GDSC AJIET
+🎨 Co-founder of AJIET DevNation | 🌱 Open Source Enthusiast
+
   </p>
 
   <p align="center">
