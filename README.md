@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hey there! I'm Abhishek Mankame 👋</h1>
   <p align="center">
-    <b>**💻 Software Engineer building systems, solving problems, and exploring AI.**
-🧠 DSA • System Design • Backend Engineering • AI/GenAI
-🚀 Software Engineer at Tata Consultancy Services (TCS)
-🥇 3x Azure Certified | Ex-#msftstudentambassadors Gold | Former AI/ML Lead @ GDSC AJIET
+    **💻 Software Engineer building systems, solving problems, and exploring AI.**
+🧠 DSA • System Design • Backend Engineering • AI/GenAI<br>
+🚀 Software Engineer at Tata Consultancy Services (TCS)<br>
+🥇 3x Azure Certified | Ex-#msftstudentambassadors Gold | Former AI/ML Lead @ GDSC AJIET<br>
 🎨 Co-founder of AJIET DevNation | 🌱 Open Source Enthusiast
 
   </p>
